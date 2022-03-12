@@ -87,5 +87,5 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 #### The model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.8.0</code>
 
 ## :eyes: License
-MIT © [Chandrika Deb](https://github.com/PaviVenkatesan/FaceMaskDetection/blob/master/LICENSE)
+MIT © [Pavithra Venkatesan](https://github.com/PaviVenkatesan/FaceMaskDetection/blob/master/LICENSE)
 
